@@ -20,12 +20,12 @@ www.linkedin.com/in/acardosolima
 #### Graduate - Business Administration
 
 Fundação Getúlio Vargas
-2015 - 2016
+(2015 - 2016)
 
 #### Bachelor - Computer Science
 
 Universidade Presbiteriana Mackenzie
-2010 - 2013
+(2010 - 2013)
 
 ## **Certifications**
 
