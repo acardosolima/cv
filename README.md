@@ -6,11 +6,14 @@
 
 ## **Contact**
 
-#### Email | adrianocardoso1991@gmail.com
+#### Email: 
+adrianocardoso1991@gmail.com
 
-#### Phone | +55 (11) 95166-8736
+#### Phone:
++55 (11) 95166-8736
 
-#### Linkedin Profile | www.linkedin.com/in/acardosolima
+#### Linkedin Profile:
+www.linkedin.com/in/acardosolima
 
 ## **Education**
 
