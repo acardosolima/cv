@@ -6,17 +6,11 @@
 
 ## **Contact**
 
-#### Email
+#### Email | adrianocardoso1991@gmail.com
 
-adrianocardoso1991@gmail.com
+#### Phone | +55 (11) 95166-8736
 
-#### Phone
-
-+55 (11) 95166-8736
-
-#### Linkedin Profile
-
-www.linkedin.com/in/acardosolima
+#### Linkedin Profile | www.linkedin.com/in/acardosolima
 
 ## **Education**
 
@@ -92,13 +86,27 @@ Dec 2009 - Dec 2011
 
 ## Skills
 
+### Languages
 - Python
 - Java
-- SQL
-- Amazon Web Services
-- Javascript
+- Node
+
+### Frameworks / Libraries
 - React
-- Big Data Hadoop
-- Apache Spark
+- Django
+- Spring
+
+### Data
+- MongoDB
+- Cassandra
+- Kafka
+- Spark
+- Hadoop
+
+### Cloud Providers
+- Amazon Web Services
+
+### Management
+- Technical Leadership
 - Executive Presentations
 - Key Performance Indicators
