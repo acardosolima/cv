@@ -45,11 +45,20 @@ Working proficiency
 
 ## **Work Experience**
 
+### F1RST Tecnologia
+
+#### IT Senior Analyst
+
+Dec 2022 - Current | São Paulo, Brazil
+
+- Architecture definition for near real time data processing using Spark streaming and Databricks
+- Establishment of working model to migrate Risk models and policies to Microsoft Azure
+
 ### Itaú Unibanco
 
 #### Senior System Analyst
 
-Jan 2021 - Current | São Paulo, Brazil
+Jan 2021 - Dec 2022 | São Paulo, Brazil
 
 - Technical leadership of a 6-12 team responsible for development and maintenance of AML (Anti money laudering) systems
 - Vendor relationship and management of American big data solution accountable for AML's alerts and analysis
@@ -105,6 +114,7 @@ Dec 2009 - Dec 2011
 - Kafka
 - Spark
 - Hadoop
+- Azure Databricks
 
 ### Cloud Providers
 - Amazon Web Services
