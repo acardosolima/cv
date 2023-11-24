@@ -49,7 +49,7 @@ Working proficiency
 
 #### IT Senior Analyst
 
-Dec 2022 - Current | São Paulo, Brazil
+Dec 2022 - May 2023 | São Paulo, Brazil
 
 - Architecture definition for near real time data processing using Spark streaming and Databricks
 - Establishment of working model to migrate Risk models and policies to Microsoft Azure
@@ -114,10 +114,11 @@ Dec 2009 - Dec 2011
 - Kafka
 - Spark
 - Hadoop
-- Azure Databricks
+- Databricks
 
 ### Cloud Providers
 - Amazon Web Services
+- Microsoft Azuret
 
 ### Management
 - Technical Leadership
