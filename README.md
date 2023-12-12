@@ -1,6 +1,6 @@
 # **Adriano Lima**
 
-### _Tech Lead at Itaú Unibanco_
+### _Data Engineer_
 
 > System analyst with professional background in the financial sector. Bachelor in Computer Science and graduate in Business Administration. Developed skills in data analysis, Key Performance Indicators management and system development using agile methodologies and cloud technologies.
 
