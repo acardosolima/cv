@@ -1,126 +1,67 @@
 # **Adriano Lima**
 
-### _Data Engineer_
-
-> System analyst with professional background in the financial sector. Bachelor in Computer Science and graduate in Business Administration. Developed skills in data analysis, Key Performance Indicators management and system development using agile methodologies and cloud technologies.
+> Senior Data Engineer with a decade of experience designing data solutions for IT Governance, Anti Money Laundering and Retail Credit Risk within the financial services industry. Led the implementation of a real-time data processing system for a multinational banking company using Azure, Databricks, Spark and Python. Additionally, designed and implemented a comprehensive data warehouse solution for the largest financial services company in Latin America using AWS, Python, SQL and Terraform.
 
 ## **Contact**
 
-#### Email: 
-adrianocardoso1991@gmail.com
+Email | Phone | LinkedIn
+--- | --- | ---
+adrianocardoso1991@gmail.com | +55 (11) 95166-8736 | www.linkedin.com/in/acardosolima
 
-#### Phone:
-+55 (11) 95166-8736
+## **SKILLS**
+**Programming Languages:** Python, Java, SQL, Javascript, Bash
 
-#### Linkedin Profile:
-www.linkedin.com/in/acardosolima
+**Databases & Storage:** MS SQLServer, Cassandra, MySQL, MongoDB, PostgreSQL
 
-## **Education**
+**Data Tools:** Spark, Hadoop, Databricks, Alteryx, Kafka, Pandas
 
-#### Graduate - Business Administration
+**Visualization Tools:** Tableau, PowerBI, Kibana
 
-Fundação Getúlio Vargas
-(2015 - 2016)
+**Cloud:** AWS, Azure
 
-#### Bachelor - Computer Science
+**ML Frameworks & Tools:** Scikit-learn, MLFlow, Beautiful Soup
 
-Universidade Presbiteriana Mackenzie
-(2010 - 2013)
+**Others:** Docker, Django, Terraform, Elasticsearch, Linux, Jira
 
-## **Certifications**
 
-- AWS Developer Associate - Amazon Web Services
-- AWS Solutions Architect Associate - Amazon Web Services
-- DevOps Essentials Professional Certificate (DEPC) - Certiprof
+## **EXPERIENCE**
 
-## **Languages**
 
-#### Portuguese
+**It Senior Analyst**, F1rst Tecnologia - Santander	Nov 2022 – April 2023
+- Defined big data architecture for the innovation branch of a Brazilian bank, using Azure, Databricks, Python and Spark Streaming to handle near real-time data processing for retail credit risk analysis. Initially, aiming to create the data environment and plan how to migrate the bank’s pipelines.
 
-Native
+**Senior System Analyst**, Itaú Unibanco	Jan 2021 – Nov 2022
+- Designed a data warehouse solution using AWS services and Terraform to enable faster data processing and cost optimization for the Bank’s Anti Money Laundering (AML) team.
+- Managed data lake using SQL, Hadoop, and Spark to store, process and create models for AML scoring and analysis.
+- Developed and supported multiple dashboards using Kibana, Elasticsearch, and Javascript to enhance decision-making capabilities by presenting complex aggregated data.
 
-#### English
+**System Analyst**, Itaú Unibanco	March 2019 – Dec 2020
 
-Working proficiency
+Built and managed several data pipelines using Alteryx, Python, Java, and SQL, leveraging on Pandas, Scikit-learn and MLFlow to handle large volumes of data for AML analysis to prevent further illegal use and tarnishing the institution's image.
+- Supported infrastructure of data business applications using Linux and Bash to ensure the smooth and efficient operation of the bank’s business processes.
+- Provided technical and architectural guidance to microservices web applications using Angular, Cassandra, SQLServer and Kafka for client analysis workflow, leveraging on Openshift to improve scalability and flexibility.
 
-## **Work Experience**
+**Project Analyst**, Itaú Unibanco	June 2017 – Feb 2019
+- Developed a data extraction/processing pipeline using SQL, Python, and Javascript to measure software development practices for performance evaluation metrics of more than 900 bank employees.
+- Created a managerial dashboard using SQL and Tableau to measure software development practices considering unit testing, code review, code quality (COBOL and DB2), Source Control Management (SCM), budgeting and planning of internal and external hours.
 
-### F1RST Tecnologia
+**Junior Project Analyst**, Itaú Unibanco	Jan 2014 – May 2017
+- Defined business strategy using Agile, leveraging on Jira and Tableau to Provide a framework with a data dashboard to prioritize a project against all other projects in the bank, establishing project prioritization process with business areas of the bank, aligning all employees towards a common goal. 
+- Designed a managerial dashboard using Tableau to track key performance indicators and project metrics in one centralized location, such as planned vs actual hours, release date and NPV.
+- Implemented a data extraction/processing pipeline using Excel, SQLServer, Python, Bash and PowerBI to automate data collection and provide quality key performance indicators such as mainframe abends online/batch, efficiency and MIPs consumption.
 
-#### IT Senior Analyst
+**Intern**, Itaú Unibanco	May 2012 – Dec 2013
+- Developed data analysis reports using Excel and SQL to improve operational efficiency and optimize processes for the Systems Development Board, legal entity division, managing to reduce 12% of personnel operating budget.
 
-Dec 2022 - May 2023 | São Paulo, Brazil
 
-- Architecture definition for near real time data processing using Spark streaming and Databricks
-- Establishment of working model to migrate Risk models and policies to Microsoft Azure
+## **EDUCATION & TRAINING**
+**BSc, Computer Science**, Mackenzie Presbyterian University (2013)
+Built a real-time application using Java and C to provide a low-cost remote-controlled robot for visually inspecting limited access environments for a Bachelor's Thesis.
 
-### Itaú Unibanco
+**Graduate, Business Administration**, Fundação Getúlio Vargas (2016)
 
-#### Senior System Analyst
+Certifications: **AWS Solutions Architect - Associate** (Amazon Web Services), **AWS Developer - Associate** (Amazon Web Services), **DevOps Essentials Professional Certificate** (Certiprof International)
 
-Jan 2021 - Dec 2022 | São Paulo, Brazil
+Courses: **6.86x: Machine Learning with Python** (MITx), **6.431x: Probability - The Science of Uncertainty and Data** (MITx), **18.6501x: Fundamentals of Statistics** (MITx)
 
-- Technical leadership of a 6-12 team responsible for development and maintenance of AML (Anti money laudering) systems
-- Vendor relationship and management of American big data solution accountable for AML's alerts and analysis
-- Architectural ideation and technical guidance for data science project using AWS services (S3, Athena, Glue, EMR and Quicksight)
 
-#### System Analyst
-
-May 2019 - Dec 2020 | São Paulo, Brazil
-
-- Support and development of data pipelines/dashboards in big data solution used by AML's team, using python, java/scala and javascript technologies
-- Participation in technical discussions of analysis workflow platform using spring, cassandra, SQL server and angular
-
-#### Project Analyst
-
-Jun 2017 - Feb 2019 | São Paulo, Brazil
-Participation in the definition, formulation and executive report of key performance indicators regarding software develoment practices:
-
-- Unit testing
-- Code review
-- Code quality (cobol and DB2)
-- Source Control Management (SCM)
-- Budgeting and planning of internal and external hours
-
-#### Junior Project Analyst
-
-Jan 2014 - May 2017 | São Paulo, Brazil
-
-#### Intern
-
-May 2012 - Dec 2013 | São Paulo, Brazil
-
-### Grupo Tejofran
-
-#### Administrative Assistant
-
-Dec 2009 - Dec 2011
-
-## Skills
-
-### Languages
-- Python
-- Java
-- Node
-
-### Frameworks / Libraries
-- React
-- Django
-- Spring
-
-### Data
-- MongoDB
-- Cassandra
-- Kafka
-- Spark
-- Hadoop
-- Databricks
-
-### Cloud Providers
-- Amazon Web Services
-- Microsoft Azuret
-
-### Management
-- Technical Leadership
-- Executive Presentations
-- Key Performance Indicators
