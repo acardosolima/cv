@@ -1,6 +1,8 @@
+# **ADRIANO LIMA**
+
 > Senior Data Engineer with a decade of experience designing data solutions for IT Governance, Anti Money Laundering and Retail Credit Risk within the financial services industry. Led the implementation of a real-time data processing system for a multinational banking company using Azure, Databricks, Spark and Python. Additionally, designed and implemented a comprehensive data warehouse solution for the largest financial services company in Latin America using AWS, Python, SQL and Terraform.
 
-## **Contact**
+## **CONTACT**
 
 Email | Phone | LinkedIn
 --- | --- | ---
