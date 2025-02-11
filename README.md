@@ -27,6 +27,8 @@ adrianocardoso1991@gmail.com | +55 (11) 95166-8736 | www.linkedin.com/in/acardos
 ## **EXPERIENCE**
 
 
+*Senior Data Engineer**, Ab-Inbev Sep 2024 - Present
+
 **It Senior Analyst**, F1rst Tecnologia - Santander	Nov 2022 – April 2023
 - Defined big data architecture for the innovation branch of a Brazilian bank, using Azure, Databricks, Python and Spark Streaming to handle near real-time data processing for retail credit risk analysis. Initially, aiming to create the data environment and plan how to migrate the bank’s pipelines.
 
