@@ -21,7 +21,7 @@ adrianocardoso1991@gmail.com | +55 (11) 95166-8736 | www.linkedin.com/in/acardos
 
 **ML Frameworks & Tools:** Scikit-learn, MLFlow, Beautiful Soup
 
-**Others:** Docker, Django, Terraform, Elasticsearch, Linux, Jira
+**Others:** Docker, Django, Terraform, Elasticsearch, Linux, Jira, NewRelic
 
 
 ## **EXPERIENCE**
