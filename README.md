@@ -28,6 +28,11 @@ adrianocardoso1991@gmail.com | +55 (11) 95166-8736 | www.linkedin.com/in/acardos
 
 
 **Senior Data Engineer**, Ab-Inbev Sep 2024 - Present
+- Multi-Country KPI Platform: Contributed to migrating 30+ markets (legacy Snowflake and new partners) to Azure Databricks, implementing PySpark jobs and Delta Lake optimizations for sales performance analytics.
+- Observability Framework: Developed a centralized logging library (Python, New Relic) adopted globally by IT teams, enabling real-time monitoring of 10+ data pipelines via custom dashboards (execution times, failures, SLA compliance).
+- Resilient Data Delivery: Designed a fallback pipeline (Spark, REST APIs) to handle incomplete business data, ensuring reliable delivery of customer visit schedules to field sales teams.
+- Codebase Optimization: Refactored monolithic PySpark jobs into modular workflows, reducing maintenance overhead and enabling parallel development by 6+ engineers.
+- CI/CD Automation: Implemented Git-based versioning and automated changelogs (Azure DevOps) to track changes across multi-stage pipelines (data generation, ML optimization, API integrations).
 
 **It Senior Analyst**, F1rst Tecnologia - Santander	Nov 2022 – April 2023
 - Defined big data architecture for the innovation branch of a Brazilian bank, using Azure, Databricks, Python and Spark Streaming to handle near real-time data processing for retail credit risk analysis. Initially, aiming to create the data environment and plan how to migrate the bank’s pipelines.
