@@ -1,6 +1,6 @@
 # **ADRIANO LIMA**
 
-> Senior Data Engineer with 10+ years designing high-impact data platforms for global financial leaders (IT Governance, AML, Credit Risk) and large-scale sales analytics (real-time pipelines, observability, cloud automation).
+> Senior Data Engineer with 10+ years designing high-impact data platforms for global financial leaders (IT Governance, AML and Credit Risk) and large-scale sales analytics (real-time pipelines, observability and cloud automation).
 
 ## **CONTACT**
 
