@@ -1,6 +1,6 @@
 # **ADRIANO LIMA**
 
-> Senior Data Engineer with 10+ years designing high-impact data platforms for global financial leaders (IT Governance, AML and Credit Risk) and large-scale sales analytics (real-time pipelines, observability and cloud automation).
+> Senior Data Engineer with 10+ years designing high-impact data platforms (Spark, Databricks, Python, AWS/Azure) for Fortune 500 financial giants: IT Governance, AML, and Credit Risk systems (real-time processing, cloud DW) and world's largest brewer: data pipelines, observability (New Relic), and CI/CD automation.
 
 ## **CONTACT**
 
